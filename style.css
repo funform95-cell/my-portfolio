@@ -1,0 +1,14 @@
+body{
+    color:aliceblue;
+    background-color: pink;
+}
+p{margin:10px;
+padding:8px;
+Font-family:Arial;
+Font-size:10px;
+Font-style:italic;
+text-transform:uppercase;
+text-decoration:underline;
+line-height:20px;
+letter-spacing:1px;
+}
